@@ -21,7 +21,9 @@ Sounds far-fetched? I think a working product might take some time but the exper
 ## Projects
 
 2. [learnAh.uk](https://www.learnah.uk) 
+
 Founder / Leader in team of four
+
 • Helps teachers to make science fun to learn by recommending relevant popular science videos using machine- learning based text analysis (Latent Semantic Indexing & Latent Dirichlet Allocation)
 • Deployed on a Python Django-based website and accessible to thrid-party through REST API
 • UCL Institute of Education Knowledge Lab EDUCATE Graduate (with EU grant) + Y Combinator Startup School Graduate + Runner-up, Cambridge University Entrepreneurs competition (Social Enterprise)
@@ -29,6 +31,7 @@ Founder / Leader in team of four
 1. [learnAh.org](https://learnah.org) 
 
 Founder / Leader in team of five
+
 • Chemistry students can take a picture of a question they have trouble with to obtain videos and study notes as well as similar explained questions in order to solve the question Try it
 • Helped >10,000 students + Winner, Cambridge University Engineering Society Ventures 2018 (Social Impact) + AngelHack London 2018 Grand Prize
 
