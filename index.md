@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+Hi there!
+
 
 ### Markdown
 
@@ -8,10 +9,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-Projects
-CV
-
 ## Header 2
+
+## Bio
+
+## Projects
+
+## Internships
+
+## Publications
+
 ### Header 3
 
 - Bulleted
