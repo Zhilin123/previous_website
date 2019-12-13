@@ -17,7 +17,7 @@ Sounds far-fetched? I think a working product might take some time but the exper
 ## Publications
 
 ## CV
-[Download] (https://github.com/Zhilin123/Publications/blob/master/Zhilin_CV.pdf)
+[https://github.com/Zhilin123/Publications/blob/master/Zhilin_CV.pdf] (Download)
 
 
 ### Markdown
