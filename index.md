@@ -4,7 +4,7 @@ Under construction!
 
 Hi there!
 
-<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/owl_me.jpg" height=100 width=100>
+<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/owl_me.jpg" height=100 width=100>
 
 I am Zhilin Wang and I am in my last year of my BA in Educational Psychology at Uni. of Cambridge! The most common question that I get when I tell this to people I meet for the first time is - so what do you actually study? Short answer - we learn about how people develop and how we can support that optimally! With this understanding, I then harness the power of technology to solve problems that I see. 
 
@@ -12,17 +12,26 @@ At the moment, I am focussing on this problem: We know that every person develop
 
 Sounds far-fetched? I think a working product might take some time but the experiments are already undergoing. Check out my publications!
 
+## Education
+
+BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
+<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/cues.jpg" height=100 width=100>
+* President, Cambridge Uni Education Society
+<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/mbc.jpg" height=100 width=100>
+* Captain, Magdalene Badminton Club
+
 ## Publications
 
 1. Zhilin Wang, Weizhe Lin, Elena Rastorgueva and Xiaodong Wu. 2019. Clustering help-seeking posts on Reddit. Under Review
 
 1. Zhilin Wang, Weizhe Lin, Xiaodong Wu and Elena Rastorgueva. 2019. Identifying the most similar movie characters. Under Review 
 
+
 1. Zhilin Wang, Elena Rastorgueva, Weizhe Lin and Xiaodong Wu. 2019. No, you’re not alone: A better way to find people with similar experiences on Reddit. In Proceedings of W-NUT at EMNLP. [pdf](https://www.aclweb.org/anthology/D19-5540/)
 
 ## Projects
 
-<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/learnah_cue_prize.jpg" height=100 width=100>
+<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/learnah_cue_prize.jpg" height=160 width=250>
 
 1. [learnAh.uk](https://www.learnah.uk) 
 
@@ -41,6 +50,8 @@ Sounds far-fetched? I think a working product might take some time but the exper
 
 ## Internships
 
+<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/second_year_intern.jpg" height=160 width=250>
+
 1. New Oriental AI Research Institute 
 
    * Natural Language Processing Intern Jul - Sep 2019
@@ -48,6 +59,7 @@ Sounds far-fetched? I think a working product might take some time but the exper
    * Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
    * Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
 
+<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/first_year_intern.jpg" height=160 width=250>
 2. University of Cambridge Computer Laboratory 
 
    * Natural Language Processing Intern Jul - Sep 2019
