@@ -41,7 +41,7 @@ Founder / Leader in team of five
 
 Natural Language Processing Intern Jul - Sep 2019
 
-* Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code | Findings](https://github.com/Zhilin123/active_learning)
+* Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
 * Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
 
 1. University of Cambridge Computer Laboratory 
@@ -49,7 +49,7 @@ Natural Language Processing Intern Jul - Sep 2019
 Natural Language Processing Intern Jul - Sep 2019
 
 * Low-income students in India are unable to understand word problems in English, hindering their understand- ing of mathematical concepts.
-* Developed web-app that translates questions into their mother tongue and finds definitions of difficult words in a just-in-time manner. [Code](https://github.com/Zhilin123/urop/) | [Demo](http://zw322.pythonanywhere.com)
+* Developed web-app that translates questions into their mother tongue and finds definitions of difficult words in a just-in-time manner. [Code](https://github.com/Zhilin123/urop/) / [Demo](http://zw322.pythonanywhere.com)
 
 ## CV
 [Download](https://github.com/Zhilin123/Publications/blob/master/Zhilin_CV.pdf)
