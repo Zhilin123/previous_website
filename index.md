@@ -15,8 +15,10 @@ Sounds far-fetched? I think a working product might take some time but the exper
 ## Education
 
 BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
+
 <img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/cues.jpg" height=100 width=100>
 * President, Cambridge Uni Education Society
+
 <img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/mbc.jpg" height=100 width=100>
 * Captain, Magdalene Badminton Club
 
