@@ -2,9 +2,9 @@ Under construction!
 
 ## Bio
 
-Hi there!
-
 ![image] (img/owl_me.jpg)
+
+Hi there!
 
 I am Zhilin Wang and I am in my last year of my BA in Educational Psychology at Uni. of Cambridge! The most common question that I get when I tell this to people I meet for the first time is - so what do you actually study? Short answer - we learn about how people develop and how we can support that optimally! With this understanding, I then harness the power of technology to solve problems that I see. 
 
