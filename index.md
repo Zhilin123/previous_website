@@ -4,6 +4,8 @@ Under construction!
 
 Hi there!
 
+![Image](http://learnah.org/wp-content/uploads/2017/02/matriculation-photo-768x769.jpg)
+
 I am Zhilin Wang and I am in my last year of my BA in Educational Psychology at Uni. of Cambridge! The most common question that I get when I tell this to people I meet for the first time is - so what do you actually study? Short answer - we learn about how people develop and how we can support that optimally! With this understanding, I then harness the power of technology to solve problems that I see. 
 
 At the moment, I am focussing on this problem: We know that every person develops and therefore can be guided differently. What we don't know what this difference is for each person. We might know that Tom is somewhat introverted - but we might not know why he is so. He might have been taught by his parents to keep to himself, been previously bullied at school or simply prefers to be by himself to do things he like (reading/video games etc). If teachers, parents and even peers know his reason, they might know how to interact better with him. The problem is - people don't talk about it. And my solution is to extract this information through their language w/o them telling explicitly. 
