@@ -22,34 +22,38 @@ Sounds far-fetched? I think a working product might take some time but the exper
 
 1. [learnAh.uk](https://www.learnah.uk) 
 
-''* Founder / Leader in team of four
+  * Founder / Leader in team of four
 
-''* Helps teachers to make science fun to learn by recommending relevant popular science videos using machine- learning based text analysis (Latent Semantic Indexing & Latent Dirichlet Allocation)
-''* Deployed on a Python Django-based website and accessible to thrid-party through REST API
-''* UCL Institute of Education Knowledge Lab EDUCATE Graduate (with EU grant) + Y Combinator Startup School Graduate + Runner-up, Cambridge University Entrepreneurs competition (Social Enterprise)
+  * Helps teachers to make science fun to learn by recommending relevant popular science videos using machine- learning based text analysis (Latent Semantic Indexing & Latent Dirichlet Allocation)
+  * Deployed on a Python Django-based website and accessible to thrid-party through REST API
+  * UCL Institute of Education Knowledge Lab EDUCATE Graduate (with EU grant) + Y Combinator Startup School Graduate + Runner-up, Cambridge University Entrepreneurs competition (Social Enterprise)
 
 2. [learnAh.org](https://learnah.org) 
 
-''* Founder / Leader in team of five
+  * Founder / Leader in team of five
 
-''* Chemistry students can take a picture of a question they have trouble with to obtain videos and study notes as well as similar explained questions in order to solve the question Try it
-''* Helped >10,000 students + Winner, Cambridge University Engineering Society Ventures 2018 (Social Impact) + AngelHack London 2018 Grand Prize
+  * Chemistry students can take a picture of a question they have trouble with to obtain videos and study notes as well as similar explained questions in order to solve the question Try it
+  * Helped >10,000 students + Winner, Cambridge University Engineering Society Ventures 2018 (Social Impact) + AngelHack London 2018 Grand Prize
 
 ## Internships
 
 1. New Oriental AI Research Institute 
 
-''* Natural Language Processing Intern Jul - Sep 2019
+  * Natural Language Processing Intern Jul - Sep 2019
 
-''* Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
-''* Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
+  * Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
+  * Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
 
 2. University of Cambridge Computer Laboratory 
 
-''* Natural Language Processing Intern Jul - Sep 2019
+  * Natural Language Processing Intern Jul - Sep 2019
 
-''* Low-income students in India are unable to understand word problems in English, hindering their understand- ing of mathematical concepts.
-''* Developed web-app that translates questions into their mother tongue and finds definitions of difficult words in a just-in-time manner. [Code](https://github.com/Zhilin123/urop/) / [Demo](http://zw322.pythonanywhere.com)
+  * Low-income students in India are unable to understand word problems in English, hindering their understand- ing of mathematical concepts.
+  * Developed web-app that translates questions into their mother tongue and finds definitions of difficult words in a just-in-time manner. [Code](https://github.com/Zhilin123/urop/) / [Demo](http://zw322.pythonanywhere.com)
+
+## Awards
+
+Google Science Fair Global Finalist [Details](https://www.googlesciencefair.com/past-projects/a20a050cd54cec76e0c708a596f9fe8997bc314157697760fabdcb0a2fef181d) /[Press](https://www.cbsnews.com/news/google-science-fair-finalists-20-teens-wholl-change-the-world/)
 
 ## CV
 [Download](https://github.com/Zhilin123/Publications/blob/master/Zhilin_CV.pdf)
