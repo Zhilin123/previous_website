@@ -30,10 +30,10 @@ Sounds far-fetched? I think a working product might take some time but the exper
 
 2. [learnAh.org](https://learnah.org) 
 
-  * Founder / Leader in team of five
+   * Founder / Leader in team of five
 
-  * Chemistry students can take a picture of a question they have trouble with to obtain videos and study notes as well as similar explained questions in order to solve the question Try it
-  * Helped >10,000 students + Winner, Cambridge University Engineering Society Ventures 2018 (Social Impact) + AngelHack London 2018 Grand Prize
+   * Chemistry students can take a picture of a question they have trouble with to obtain videos and study notes as well as similar explained questions in order to solve the question Try it
+   * Helped >10,000 students + Winner, Cambridge University Engineering Society Ventures 2018 (Social Impact) + AngelHack London 2018 Grand Prize
 
 ## Internships
 
