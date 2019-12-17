@@ -74,7 +74,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 Google Science Fair Global Finalist [Details](https://www.googlesciencefair.com/past-projects/a20a050cd54cec76e0c708a596f9fe8997bc314157697760fabdcb0a2fef181d) /[Press](https://www.cbsnews.com/news/google-science-fair-finalists-20-teens-wholl-change-the-world/)
 
 ## CV
-[Download](https://github.com/Zhilin123/Publications/blob/master/Zhilin_CV.pdf)
+[Download](https://github.com/Zhilin123/Publications/raw/master/Zhilin_CV.pdf)
 
 ## Contact
 zw322 (at) cam (dot) ac (dot) uk
