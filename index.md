@@ -22,6 +22,8 @@ Sounds far-fetched? I think a working product might take some time but the exper
 
 ## Projects
 
+<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/learnah_cue_prize.jpg" height=100 width=100>
+
 1. [learnAh.uk](https://www.learnah.uk) 
 
    * Founder / Leader in team of four
