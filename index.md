@@ -28,7 +28,7 @@ Founder / Leader in team of four
 * Deployed on a Python Django-based website and accessible to thrid-party through REST API
 * UCL Institute of Education Knowledge Lab EDUCATE Graduate (with EU grant) + Y Combinator Startup School Graduate + Runner-up, Cambridge University Entrepreneurs competition (Social Enterprise)
 
-1. [learnAh.org](https://learnah.org) 
+2. [learnAh.org](https://learnah.org) 
 
 Founder / Leader in team of five
 
@@ -44,7 +44,7 @@ Natural Language Processing Intern Jul - Sep 2019
 * Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
 * Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
 
-1. University of Cambridge Computer Laboratory 
+2. University of Cambridge Computer Laboratory 
 
 Natural Language Processing Intern Jul - Sep 2019
 
