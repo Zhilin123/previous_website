@@ -22,11 +22,11 @@ Sounds far-fetched? I think a working product might take some time but the exper
 
 1. [learnAh.uk](https://www.learnah.uk) 
 
-  * Founder / Leader in team of four
+   * Founder / Leader in team of four
 
-  * Helps teachers to make science fun to learn by recommending relevant popular science videos using machine- learning based text analysis (Latent Semantic Indexing & Latent Dirichlet Allocation)
-  * Deployed on a Python Django-based website and accessible to thrid-party through REST API
-  * UCL Institute of Education Knowledge Lab EDUCATE Graduate (with EU grant) + Y Combinator Startup School Graduate + Runner-up, Cambridge University Entrepreneurs competition (Social Enterprise)
+   * Helps teachers to make science fun to learn by recommending relevant popular science videos using machine- learning based text analysis (Latent Semantic Indexing & Latent Dirichlet Allocation)
+   * Deployed on a Python Django-based website and accessible to thrid-party through REST API
+   * UCL Institute of Education Knowledge Lab EDUCATE Graduate (with EU grant) + Y Combinator Startup School Graduate + Runner-up, Cambridge University Entrepreneurs competition (Social Enterprise)
 
 2. [learnAh.org](https://learnah.org) 
 
