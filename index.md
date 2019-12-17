@@ -48,7 +48,7 @@ Sounds far-fetched? I think a working product might take some time but the exper
 
    * Natural Language Processing Intern Jul - Sep 2019
 
-   * Low-income students in India are unable to understand word problems in English, hindering their understand- ing of mathematical concepts.
+   * Low-income students in India are unable to understand word problems in English, hindering their understanding of mathematical concepts.
    * Developed web-app that translates questions into their mother tongue and finds definitions of difficult words in a just-in-time manner. [Code](https://github.com/Zhilin123/urop/) / [Demo](http://zw322.pythonanywhere.com)
 
 ## Awards
