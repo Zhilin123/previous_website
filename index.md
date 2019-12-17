@@ -39,17 +39,17 @@ Sounds far-fetched? I think a working product might take some time but the exper
 
 1. New Oriental AI Research Institute 
 
-  * Natural Language Processing Intern Jul - Sep 2019
+   * Natural Language Processing Intern Jul - Sep 2019
 
-  * Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
-  * Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
+   * Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
+   * Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
 
 2. University of Cambridge Computer Laboratory 
 
-  * Natural Language Processing Intern Jul - Sep 2019
+   * Natural Language Processing Intern Jul - Sep 2019
 
-  * Low-income students in India are unable to understand word problems in English, hindering their understand- ing of mathematical concepts.
-  * Developed web-app that translates questions into their mother tongue and finds definitions of difficult words in a just-in-time manner. [Code](https://github.com/Zhilin123/urop/) / [Demo](http://zw322.pythonanywhere.com)
+   * Low-income students in India are unable to understand word problems in English, hindering their understand- ing of mathematical concepts.
+   * Developed web-app that translates questions into their mother tongue and finds definitions of difficult words in a just-in-time manner. [Code](https://github.com/Zhilin123/urop/) / [Demo](http://zw322.pythonanywhere.com)
 
 ## Awards
 
