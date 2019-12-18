@@ -2,7 +2,7 @@ Under construction!
 
 ## Bio
 
-<a href="url"><img src="img/owl_me.jpg" align="center" height="48" width="48" ></a>
+<a href="url"><img src="img/owl_me.jpg" align="center" height="100" width="100" ></a>
 
 Hi there!
 
@@ -14,10 +14,10 @@ Sounds far-fetched? I think a working product might take some time but the exper
 
 BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
-<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/cues.jpg" height=100 width=100>
+<a href="url"><img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/cues.jpg" height=100 width=100></a>
 * President, Cambridge Uni Education Society
 
-<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/mbc.jpg" height=100 width=100>
+<a href="url"><img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/mbc.jpg" height=100 width=100></a>
 * Captain, Magdalene Badminton Club
 
 ## Publications
@@ -31,7 +31,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
 ## Projects
 
-<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/learnah_cue_prize.jpg" height=160 width=250>
+<a href="url"><img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/learnah_cue_prize.jpg" height=160 width=250></a>
 
 1. [learnAh.uk](https://www.learnah.uk) 
 
@@ -50,7 +50,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
 ## Internships
 
-<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/second_year_intern.jpg" height=160 width=250>
+<a href="url"><img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/second_year_intern.jpg" height=160 width=250></a>
 
 1. New Oriental AI Research Institute 
 
@@ -59,7 +59,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
    * Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
    * Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
 
-<img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/first_year_intern.jpg" height=160 width=250>
+<a href="url"><img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/first_year_intern.jpg" height=160 width=250></a>
 2. University of Cambridge Computer Laboratory 
 
    * Natural Language Processing Intern Jul - Sep 2019
