@@ -17,7 +17,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 <a href="url"><img src="img/cues.jpg" align="center" height="160" width="250"></a>
 * President, Cambridge Uni Education Society
 
-<a href="url"><img src="img/mbc.jpg" height=160 width=250></a>
+<a href="url"><img src="img/mbc.jpg" height="160" width="250"></a>
 * Captain, Magdalene College Badminton Club
 
 ## Publications
