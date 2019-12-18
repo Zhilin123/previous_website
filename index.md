@@ -47,7 +47,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
 ## Internships
 
-<a href="url"><img src="img/second_year_intern.jpg" height="160" width="250"></a>
+   <a href="url"><img src="img/second_year_intern.jpg" height="160" width="250"></a>
 
 1. New Oriental AI Research Institute 
 
@@ -56,7 +56,8 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
    * Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
    * Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
 
-<a href="url"><img src="img/first_year_intern.jpg" height="160" width="250"></a>
+   <a href="url"><img src="img/first_year_intern.jpg" height="160" width="250"></a>
+   
 2. University of Cambridge Computer Laboratory 
 
    * Natural Language Processing Intern Jul - Sep 2019
