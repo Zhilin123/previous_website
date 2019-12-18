@@ -60,7 +60,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
    
 2. University of Cambridge Computer Laboratory 
 
-   * Natural Language Processing Intern Jul - Sep 2019
+   * Natural Language Processing Intern Jul - Sep 2018
 
    * Low-income students in India are unable to understand word problems in English, hindering their understanding of mathematical concepts.
    * Developed web-app that translates questions into their mother tongue and finds definitions of difficult words in a just-in-time manner. [Code](https://github.com/Zhilin123/urop/) / [Demo](http://zw322.pythonanywhere.com)
