@@ -14,10 +14,10 @@ Sounds far-fetched? I think a working product might take some time but the exper
 
 BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
-<a href="url"><img src="img/cues.jpg" height=100 width=100></a>
+<a href="url"><img src="img/cues.jpg" align="center" height="160" width="250"></a>
 * President, Cambridge Uni Education Society
 
-<a href="url"><img src="img/mbc.jpg" height=100 width=100></a>
+<a href="url"><img src="img/mbc.jpg" height=160 width=250></a>
 * Captain, Magdalene College Badminton Club
 
 ## Publications
@@ -31,7 +31,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
 ## Projects
 
-<a href="url"><img src="img/owl_me.jpg" align="center" height="160" width="250" ></a>
+<a href="url"><img src="img/learnah_cue_prize.jpg" align="center" height="160" width="250" ></a>
 
 1. [learnAh.uk](https://www.learnah.uk) 
 
