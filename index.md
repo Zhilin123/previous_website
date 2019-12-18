@@ -31,7 +31,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
 ## Projects
 
-<a href="url"><img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/learnah_cue_prize.jpg" height=160 width=250></a>
+<a href="url"><img src="img/owl_me.jpg" align="center" height="160" width="250" ></a>
 
 1. [learnAh.uk](https://www.learnah.uk) 
 
