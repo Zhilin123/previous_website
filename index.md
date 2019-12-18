@@ -24,8 +24,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
 1. Zhilin Wang, Weizhe Lin, Xiaodong Wu and Elena Rastorgueva. 2019. Identifying the most similar movie characters. Under Review 
 
-
-1. Zhilin Wang, Elena Rastorgueva, Weizhe Lin and Xiaodong Wu. 2019. No, you’re not alone: A better way to find people with similar experiences on Reddit. In Proceedings of W-NUT at EMNLP. [pdf](https://www.aclweb.org/anthology/D19-5540/)
+1. Zhilin Wang, Elena Rastorgueva, Weizhe Lin and Xiaodong Wu. 2019. No, you’re not alone: A better way to find people with similar experiences on Reddit. In Proceedings of W-NUT at EMNLP. [pdf](https://www.aclweb.org/anthology/D19-5540/) 
 
 ## Projects
 
@@ -65,12 +64,21 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
    * Low-income students in India are unable to understand word problems in English, hindering their understanding of mathematical concepts.
    * Developed web-app that translates questions into their mother tongue and finds definitions of difficult words in a just-in-time manner. [Code](https://github.com/Zhilin123/urop/) / [Demo](http://zw322.pythonanywhere.com)
 
+## Posters
+
+Zhilin Wang,Andrew Caines,Russell Moore,Paula Buttery and Ianthi Tsimpli. 2018. Developing a prototype web-app for numeracy assessment and teaching. In Cambridge Language Sciences Symposium. [pdf](https://github.com/Zhilin123/Publications/raw/master/CLS_2018.pdf)
+
 ## Awards
 
 Google Science Fair Global Finalist [Details](https://www.googlesciencefair.com/past-projects/a20a050cd54cec76e0c708a596f9fe8997bc314157697760fabdcb0a2fef181d) /[Press](https://www.cbsnews.com/news/google-science-fair-finalists-20-teens-wholl-change-the-world/)
 
+## Technical skills
+**Natural Language Processing:** PyTorch, Transformers, Keras, Scikit-Learn, Gensim, NLTK, SQL and Shell 
+**Web Development:** HTML, CSS, Bootstrap, JavaScript, AJAX, Flask and Django
+
 ## CV
 [Download](https://github.com/Zhilin123/Publications/raw/master/Zhilin_CV.pdf)
+
 
 ## Contact
 zw322 (at) cam (dot) ac (dot) uk
