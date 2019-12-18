@@ -1,5 +1,3 @@
-Under construction!
-
 ## Bio
 
 <a href="url"><img src="img/owl_me.jpg" align="center" height="150" width="150" ></a>
