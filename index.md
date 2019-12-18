@@ -56,7 +56,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
    * Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
    * Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
 
-<a href="url"><img src="img/first_year_intern.jpg" height="160" width="250"></a>
+'''<a href="url"><img src="img/first_year_intern.jpg" height="160" width="250"></a>'''
    
 2. University of Cambridge Computer Laboratory 
 
@@ -67,7 +67,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
 ## Posters
 
-Zhilin Wang,Andrew Caines,Russell Moore,Paula Buttery and Ianthi Tsimpli. 2018. Developing a prototype web-app for numeracy assessment and teaching. In Cambridge Language Sciences Symposium. [pdf](https://github.com/Zhilin123/Publications/raw/master/CLS_2018.pdf)
+Zhilin Wang, Andrew Caines, Russell Moore, Paula Buttery and Ianthi Tsimpli. 2018. Developing a prototype web-app for numeracy assessment and teaching. In Cambridge Language Sciences Symposium. [pdf](https://github.com/Zhilin123/Publications/raw/master/CLS_2018.pdf)
 
 ## Awards
 
