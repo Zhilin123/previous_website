@@ -14,10 +14,10 @@ Sounds far-fetched? I think a working product might take some time but the exper
 
 BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
-<a href="url"><img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/cues.jpg" height=100 width=100></a>
+<a href="url"><img src="img/cues.jpg" height=100 width=100></a>
 * President, Cambridge Uni Education Society
 
-<a href="url"><img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/mbc.jpg" height=100 width=100></a>
+<a href="url"><img src="img/mbc.jpg" height=100 width=100></a>
 * Captain, Magdalene College Badminton Club
 
 ## Publications
@@ -50,7 +50,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
 
 ## Internships
 
-<a href="url"><img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/second_year_intern.jpg" height=160 width=250></a>
+<a href="url"><img src="img/second_year_intern.jpg" height=160 width=250></a>
 
 1. New Oriental AI Research Institute 
 
@@ -59,7 +59,7 @@ BA Education, Psychology and Learning 2017-2020 Uni of Cambridge
    * Researched on the use of active learning techniques to make the labelling of samples for supervised learning more effective for paragraph-level text classification. [Code / Findings](https://github.com/Zhilin123/active_learning)
    * Created knowledge map for a secondary school Physics curriculum to link classroom recordings to content
 
-<a href="url"><img src="https://github.com/Zhilin123/zhilin123.github.io/raw/master/img/first_year_intern.jpg" height=160 width=250></a>
+<a href="url"><img src="img/first_year_intern.jpg" height=160 width=250></a>
 2. University of Cambridge Computer Laboratory 
 
    * Natural Language Processing Intern Jul - Sep 2019
