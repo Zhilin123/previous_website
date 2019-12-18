@@ -6,7 +6,7 @@ Under construction!
 
 Hi there!
 
-I am Zhilin Wang and I am in my final year of my BA in Educational Psychology at Uni. of Cambridge! We know that every person develops and therefore can be guided differently. What we don't know what this difference is for each person. We might know that Tom is somewhat introverted - but we might not know why he is so. He might have been taught by his parents to keep to himself, been previously bullied at school or simply prefers to be by himself to do things he like (reading/video games etc). If teachers, parents and even peers know his reason, they might know how to interact better with him. The problem is - people don't talk about it. And my solution is to extract this information through their language w/o them telling explicitly. 
+I am Zhilin Wang and I am in my final year of my BA in Educational Psychology at Uni. of Cambridge! We know that every person develops and therefore can be guided differently. What we don't know what this difference is for each person. We might know that Tom is somewhat introverted - but we might not know why he is so. He might have been taught by his parents to keep to himself, been previously bullied at school or simply prefers to be by himself to do things he like (reading/video games etc). If teachers, parents and even peers know his reason, they might know how to interact better with and guide him. The problem is - people don't talk about it. And my solution is to extract this information through their language w/o them telling explicitly. 
 
 Sounds far-fetched? I think a working product might take some time but the experiments are already undergoing. Check out my publications!
 
