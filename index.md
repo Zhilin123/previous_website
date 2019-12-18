@@ -75,6 +75,7 @@ Google Science Fair Global Finalist [Details](https://www.googlesciencefair.com/
 
 ## Technical skills
 **Natural Language Processing:** PyTorch, Transformers, Keras, Scikit-Learn, Gensim, NLTK, SQL and Shell 
+
 **Web Development:** HTML, CSS, Bootstrap, JavaScript, AJAX, Flask and Django
 
 ## CV
