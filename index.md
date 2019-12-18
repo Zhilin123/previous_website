@@ -2,7 +2,7 @@ Under construction!
 
 ## Bio
 
-![image](img/owl_me.jpg)
+<a href="url"><img src="img/owl_me.jpg" align="center" height="48" width="48" ></a>
 
 Hi there!
 
