@@ -2,7 +2,7 @@ Under construction!
 
 ## Bio
 
-![image] (img/owl_me.jpg)
+![image](img/owl_me.jpg)
 
 Hi there!
 
